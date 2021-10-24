@@ -1,0 +1,27 @@
+table{
+    border:2px purple solid;
+    background-color:lightsteelblue;
+    border-collapse:collapse;
+    position:relative;
+    font-size:45px;
+}
+td{
+    border:3px purple solid;
+    text-shadow: limegreen 1px 1px 0,limegreen -1px -1px 0;
+}
+img{
+    width:100px;
+    height:100px;
+}
+img:hover{
+    width:200px;
+    height:200px;
+}
+td:hover{
+    border:4px white solid;
+    color:indigo;
+    background: radial-gradient(white,pink)
+}
+h1{
+    font-size:70px;
+}

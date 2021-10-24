@@ -1,0 +1,14 @@
+table{
+    border:2px purple solid;
+    background-color:lightsteelblue;
+    border-collapse:collapse;
+
+}
+td{
+    border:3px purple solid;
+    text-shadow: limegreen 1px 1px 0,limegreen -1px -1px 0,limegreen -1px 1px 0,limegreen 1px -1px 0;
+}
+img{
+    width:100px;
+    height:100px;
+}
